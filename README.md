@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am developer from the United States. Come check out what I have written!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgore077&label=Profile%20views&color=0e75b6&style=flat" alt="jgore077" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">I am developer from the United States. Come check out what I have written!.</h3>
+<h3 align="center">I am developer from the United States. Come check out what I have written!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgore077&label=Profile%20views&color=0e75b6&style=flat" alt="jgore077" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my tik-tok archiver project**
 
-- 📫 How to reach me **jgore077@gmail.com**
+- 📫 Contact me **jgore077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

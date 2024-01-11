@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multilingual Information Retrieval**
 
-- 🌱 I’m currently learning **Docker, Linux, Tmux**
+- 🌱 I’m currently learning **Docker, Linux, Google Cloud**
 
 - 💬 Ask me about **my tik-tok archiver project**
 

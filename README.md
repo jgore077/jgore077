@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my tik-tok archiver project**
 
-- 📫 Contact me **jgore077@gmail.com**
+- 📫 Contact me **james.gore@maine.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
